@@ -1,0 +1,19 @@
+caption{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(204, 204, 247);
+}
+table{
+    border-collapse: collapse;
+}
+thead tr, th{
+    border: 1px solid rgb(0, 0, 0); 
+    background-color: rgb(222, 222, 247);
+}
+tbody td{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(235, 245, 253);
+}
+tfoot td{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(250, 235, 253);
+}
