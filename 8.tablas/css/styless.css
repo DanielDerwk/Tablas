@@ -3,7 +3,9 @@ caption{
     background-color: rgb(204, 204, 247);
 }
 table{
+    margin: 10px;
     border-collapse: collapse;
+    
 }
 thead tr, th{
     border: 1px solid rgb(0, 0, 0); 
@@ -16,4 +18,7 @@ tbody td{
 tfoot td{
     border: 2px solid rgb(0, 0, 0);
     background-color: rgb(250, 235, 253);
+}
+body{
+    background-color: rgb(230, 191, 191)
 }
